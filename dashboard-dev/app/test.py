@@ -40,7 +40,7 @@ st.write(df.sample(n=100))  # Display a random sample of 100 rows
 st.line_chart(df[['GHI', 'DNI', 'DHI']])  # Display line chart of GHI, DNI, DHI
 
 # Footer
-st.text("Developed by Your Name")
+st.text("Developed by Surafel Belete")
 
 
 # Page Configuration
